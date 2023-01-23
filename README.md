@@ -13,6 +13,6 @@ Spesification Laptop:
 
 1. Can't shutdown off/Restart Problem/Hibernate Can't turn on back
 
-#Solution for now before fixed EFI
+# Solution for now before fixed EFI
 
 you'll into boot windows/linux for shutdown off.
