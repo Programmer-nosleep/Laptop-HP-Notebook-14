@@ -11,7 +11,7 @@ Spesification Laptop:
 
 # Deficiency EFI
 
-1. Can't shutdown off/Restart Problem/Hibernate, can't turn on back again.
+1. Can't Shutdown/Restart Problem/Hibernate, can't turn on back again.
 
 # Solution for now before fixed EFI
 
